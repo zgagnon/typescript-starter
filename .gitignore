@@ -1,0 +1,6 @@
+# Depency caches
+.direnv/
+node_modules/
+
+# build outputs
+coverage/
